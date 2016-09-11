@@ -15,7 +15,7 @@ Adding files
 git add filename
 
 Commiting changes
-git commit -m "whatever"
+git commit -am "whatever"
 
 merging code
 Run this in the branch you want to merge with
