@@ -1,5 +1,3 @@
-@AA
-
 https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
 
 viewing branches:
