@@ -42,3 +42,6 @@ Of course if you want to go back to what you stashed:
 $ git stash list
 ...
 $ git stash apply stash@{5}
+
+editing the URL:
+git remote set-url origin https://github.com/namrehkok/notes.git
