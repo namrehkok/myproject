@@ -45,3 +45,7 @@ $ git stash apply stash@{5}
 
 editing the URL:
 git remote set-url origin https://github.com/namrehkok/notes.git
+
+Importing and exporting data
+manage.py dumpdata > out.json
+manage.py loaddata out.json
